@@ -2,17 +2,17 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Vishal PJ
+Vishal PJ
+Java Developer
 
 Show Contacts
 
 Email
-richard@example.com
+vishyvishal14@gmail.com
 
 Phone
-+1 (213) 352-2795
++91 99999 99999
 
 Birthday
 June 23, 1982
